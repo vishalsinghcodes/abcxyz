@@ -7,6 +7,7 @@ public class Abc1 {
 		
 		System.out.println("1. This Line is added by Professional man  in abc");
 		
+		System.out.println("2. This Line is added by practice man in his 2nd commit @7:43");
 
 	}
 
